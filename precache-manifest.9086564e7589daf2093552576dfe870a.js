@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/timemachine/static/media/logo.5d5d9eef.svg"
   },
   {
-    "revision": "a59d44cb7b395255bffc4c6e3b4f320f",
+    "revision": "aee2d2f7215c42b1d6571d037ca109c4",
     "url": "/timemachine/index.html"
   }
 ];
